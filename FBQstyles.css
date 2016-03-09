@@ -83,17 +83,20 @@ background-color: #ffbf80;
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-shadow: none;
-}.fb-comments:hover {
+}
+
+.fb-comments:hover {
 	background-color: #dfe3ee;
-}.fb-comments:active {
-	background-color: #468ccf;
-	position: relative;
+}
+
+.fb-comments:active {
+	background-color: red;
 	top: 1px;
 }
+
 #fb-comments.js-inactive-tab {
 background-color: #8b9dc3;
 }
-
 
 .js-inactive-tab {
 background-color: #d9d9d9;

@@ -96,18 +96,14 @@ background: #ffbf80;
 	position: relative;
 }
 #fb-comments.js-inactive-tab {
-background-color: #1B3968;
-background-image: linear-gradient(#3B5998, #1B3968);
-background-image: -moz-linear-gradient(#3B5998, #1B3968);
-background-image: -webkit-linear-gradient(#3B5998, #1B3968);
+background-color: #b3b3b3;
 }
 #disqus-comments.js-inactive-tab {
-background-color: #1B3968;
-background-image: linear-gradient(#3B5998, #1B3968);
-background-image: -moz-linear-gradient(#3B5998, #1B3968);
-background-image: -webkit-linear-gradient(#3B5998, #1B3968);
+background-color: #b3b3b3;
 }
-
+#blogger-comments.js-inactive-tab {
+background-color: #b3b3b3;
+}
 .js-inactive-tab {
 background-color: #e2e2e2;
 background-image: linear-gradient(#F4F4F4,#DDD);

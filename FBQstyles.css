@@ -23,7 +23,7 @@ border-radius: 5px 5px 5px 5px;
 position: relative;
 z-index: 10;
 }
-.comments-tab img { height: 20px;  width: auto;  margin: 0px 3px;}
+.comments-tab img { height: 23px;  width: auto;  margin: 0px 3px;}
 #blogger-comments,
 #blogger-comments.js-inactive-tab:hover {
 	border-radius: 4px;

@@ -37,11 +37,11 @@ z-index: 10;
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-shadow: none;
-	background: #ffe6cc;
+	background: #ffa64d;
 }.blogger-comments:hover {
 	background-color: #ff80bf;
 }.blogger-comments:active {
-	background: #ffa64d;
+	background: #ffe6cc;
 	position: relative;
 	top: 1px;
 }

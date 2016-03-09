@@ -86,10 +86,12 @@ background: #ffbf80;
 	background: #3b5998;
 }
 .fb-comments:hover {
-	background: black;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #468ccf), color-stop(1, #63b8ee) );
+	background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#468ccf', endColorstr='#63b8ee');
+	background-color:#468ccf;
 }
 .fb-comments:active {
-	background: #8b9dc3;
 	top: 1px;
 	position: relative;
 }

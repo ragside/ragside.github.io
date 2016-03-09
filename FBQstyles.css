@@ -32,7 +32,7 @@ background-image: linear-gradient(#ffffff,#F2F2F2);
 background-image: -moz-linear-gradient(#ffffff,#F2F2F2);
 background-image: -webkit-linear-gradient(#ffffff,#F2F2F2);
 }
-.comments-tab img { height: 14px;  width: auto;  margin: 0px 3px;}
+.comments-tab img { height: 20px;  width: auto;  margin: 0px 3px;}
 #blogger-comments,
 #blogger-comments.js-inactive-tab:hover {
   -moz-box-shadow:inset 0px 1px 0px 0px #fceaca;

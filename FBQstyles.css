@@ -101,6 +101,12 @@ background-image: linear-gradient(#3B5998, #1B3968);
 background-image: -moz-linear-gradient(#3B5998, #1B3968);
 background-image: -webkit-linear-gradient(#3B5998, #1B3968);
 }
+#disqus-comments.js-inactive-tab {
+background-color: #1B3968;
+background-image: linear-gradient(#3B5998, #1B3968);
+background-image: -moz-linear-gradient(#3B5998, #1B3968);
+background-image: -webkit-linear-gradient(#3B5998, #1B3968);
+}
 
 .js-inactive-tab {
 background-color: #e2e2e2;

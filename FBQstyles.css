@@ -39,14 +39,14 @@ z-index: 10;
 	text-shadow: none;
 	background: #ffa64d;
 }.blogger-comments:hover {
-	background-color: none;
+	background: black;
 }.blogger-comments:active {
 	background: #ffe6cc;
 	position: relative;
 	top: 1px;
 }
 #blogger-comments.js-inactive-tab {
-background-color: #ffbf80;
+background: #ffbf80;
 }
 #disqus-comments,
 #disqus-comments.js-inactive-tab:hover {
@@ -63,7 +63,7 @@ background-color: #ffbf80;
 	text-shadow: none;
 	background: #33ccff;
 }.disqus-comments:hover {
-	background-color: black;
+	background: black;
 }.disqus-comments: active {
 	background: #b3ecff;
 	position: relative;
@@ -86,17 +86,17 @@ background-color: #ffbf80;
 	background: #3b5998;
 }
 .fb-comments:hover {
-	background-color: black;
+	background: black;
 }
 .fb-comments:active {
-	background-color: #8b9dc3;
+	background: #8b9dc3;
 	top: 1px;
 	position: relative;
 }
 #fb-comments.js-inactive-tab {
-background-color: #3b5998;
+background: #3b5998;
 }
 
 .js-inactive-tab {
-background-color: #ffffcc;
+background: #ffffcc;
 }

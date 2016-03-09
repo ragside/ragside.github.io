@@ -38,9 +38,8 @@ z-index: 10;
 	text-decoration: none;
 	text-shadow: none;
 	background: #ffa64d;
-}.blogger-comments:hover {
-	background: red;
-}.blogger-comments:active {
+}
+.blogger-comments:active {
 	position: relative;
 	top: 1px;
 }
@@ -57,10 +56,9 @@ z-index: 10;
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-shadow: none;
-	background-color: #33ccff;
-}.disqus-comments:hover {
-	background-color: red;
-}.disqus-comments: active {
+	background: #33ccff;
+}
+.disqus-comments: active {
 	position: relative;
 	top: 1px;
 }
@@ -79,9 +77,6 @@ z-index: 10;
 	text-decoration: none;
 	text-shadow: none;
 	background: #3b5998;
-}
-.fb-comments:hover {
-        background: red;
 }
 .fb-comments:active {
 	top: 1px;

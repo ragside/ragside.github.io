@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-/*Disqus-Facebook-Blogger Comments*/
 var jsCommentPages = function(){
   var $activePage,
 		$activeTab,
@@ -64,4 +62,3 @@ var jsCommentPages = function(){
 	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='text/css' href='http://ragside.github.io/FBQstyles.css'/>");
   	$("document").ready(init);
 }();
-</script>

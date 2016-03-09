@@ -96,7 +96,10 @@ background: #ffbf80;
 	position: relative;
 }
 #fb-comments.js-inactive-tab {
-background: #3b5998;
+background-color: #1B3968;
+background-image: linear-gradient(#3B5998, #1B3968);
+background-image: -moz-linear-gradient(#3B5998, #1B3968);
+background-image: -webkit-linear-gradient(#3B5998, #1B3968);
 }
 
 .js-inactive-tab {

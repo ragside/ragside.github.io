@@ -103,5 +103,8 @@ background-image: -webkit-linear-gradient(#3B5998, #1B3968);
 }
 
 .js-inactive-tab {
-background: #ffffcc;
+background-color: #e2e2e2;
+background-image: linear-gradient(#F4F4F4,#DDD);
+background-image: -moz-linear-gradient(#F4F4F4,#DDD);
+background-image: -webkit-linear-gradient(#F4F4F4,#DDD);
 }

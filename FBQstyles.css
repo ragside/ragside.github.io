@@ -58,9 +58,9 @@ z-index: 10;
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-shadow: none;
-	background: #33ccff;
+	background-color: #33ccff;
 }.disqus-comments:hover {
-	background: red;
+	background-color: red;
 }.disqus-comments: active {
 	position: relative;
 	top: 1px;

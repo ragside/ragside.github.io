@@ -39,7 +39,7 @@ z-index: 10;
 	text-shadow: none;
 	background: #ffa64d;
 }.blogger-comments:hover {
-	background-color: black;
+	background-color: none;
 }.blogger-comments:active {
 	background: #ffe6cc;
 	position: relative;
@@ -91,6 +91,7 @@ background-color: #ffbf80;
 .fb-comments:active {
 	background-color: #8b9dc3;
 	top: 1px;
+	position: relative;
 }
 #fb-comments.js-inactive-tab {
 background-color: #3b5998;

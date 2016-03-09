@@ -26,7 +26,7 @@ var jsCommentPages = function(){
 						
 			getTweetCounts();
 			
-			var $default = $(".js-default-tab:first"),
+			var $default = $("js-default-tab comments-tab disqusbutton:first"),
 				strDefault = "#disqus-comments";
 			if($default.length > 0){
 				strDefault = "#" + $default.attr("id");

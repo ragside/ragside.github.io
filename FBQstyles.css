@@ -1,6 +1,6 @@
 /* Comments Tab Styles*/
 .comments > h4 {
-margin: 5px 0 100px 0 !important;
+margin: 5px 0 0 0 !important;
 padding: 5px 5px;
 }
 .comments-page {
@@ -11,7 +11,7 @@ margin: 5px 5px 5px 5px;
 padding: 0px 0px;
 }
 .comment-form {
-margin: 5px;
+margin: 100px;
 }
 .comments-tab {
 color: #ffffff;

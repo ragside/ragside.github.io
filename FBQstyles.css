@@ -90,11 +90,11 @@ z-index: 10;
 }
 
 #fb-comments.js-inactive-tab {
-        background: #b3b3b3;
+        background-color: #b3b3b3;
 }
 #disqus-comments.js-inactive-tab {
-        background: #b3b3b3;
+        background-color: #b3b3b3;
 }
 #blogger-comments.js-inactive-tab {
-        background: #b3b3b3;
+        background-color: #b3b3b3;
 }

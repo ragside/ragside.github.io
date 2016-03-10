@@ -85,11 +85,23 @@ z-index: 10;
 }
 
 #fb-comments.js-inactive-tab {
-        background-color: #b3b3b3;
+    background: #b3b3b3;
+    background: -webkit-linear-gradient(#e6e6e6 gray);
+    background: -o-linear-gradient(#e6e6e6 gray);
+    background: -moz-linear-gradient(#e6e6e6, gray);
+    background: linear-gradient(#e6e6e6, gray);
 }
 #disqus-comments.js-inactive-tab {
-        background-color: #b3b3b3;
+    background: #b3b3b3;
+    background: -webkit-linear-gradient(#e6e6e6 gray);
+    background: -o-linear-gradient(#e6e6e6 gray);
+    background: -moz-linear-gradient(#e6e6e6, gray);
+    background: linear-gradient(#e6e6e6, gray);
 }
 #blogger-comments.js-inactive-tab {
-        background-color: #b3b3b3;
+    background: #b3b3b3;
+    background: -webkit-linear-gradient(#e6e6e6 gray);
+    background: -o-linear-gradient(#e6e6e6 gray);
+    background: -moz-linear-gradient(#e6e6e6, gray);
+    background: linear-gradient(#e6e6e6, gray);
 }

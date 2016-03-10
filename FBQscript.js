@@ -4,7 +4,7 @@ var jsCommentPages = function(){
 		init = function(){	
 			$(".comments-tab").each(function(){
 				var $tab = $(this);
-				$tab.click(selectPage)
+				$tab.scroll(selectPage)
 					.addClass("js-inactive-tab");
 				switch ($tab.attr("id")){
 					case "blogger-comments": 
@@ -26,7 +26,7 @@ var jsCommentPages = function(){
 						
 			getTweetCounts();
 			
-			var $default = $("js-inactive-tab:first"),
+			var $default = $("comments-tab:first"),
 				strDefault = "#disqus-comments";
 			if($default.length > 0){
 				strDefault = "#" + $default.attr("id");

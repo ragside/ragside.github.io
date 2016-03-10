@@ -4,7 +4,7 @@ var jsCommentPages = function(){
 		init = function(){	
 			$(".comments-tab").each(function(){
 				var $tab = $(this);
-				$tab.scroll(selectPage)
+				$tab.click(selectPage)
 					.addClass("js-inactive-tab");
 				switch ($tab.attr("id")){
 					case "blogger-comments": 

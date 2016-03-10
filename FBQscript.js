@@ -61,4 +61,3 @@ var jsCommentPages = function(){
 		};
 	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='text/css' href='http://ragside.github.io/FBQstyles.css'/>");
   	$("document").ready(init);
-}();

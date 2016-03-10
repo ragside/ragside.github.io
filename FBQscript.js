@@ -59,5 +59,5 @@ var jsCommentPages = function(){
 		  	$activePage = $("#" + $activeTab.attr("id") + "-page");
 		  	$activePage.show();
 		};
-	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='text/css' href='http://ragside.github.io/FBQstyles.css'/>");
-  	$("document").ready(init);{});
+	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='css' href='http://ragside.github.io/FBQstyles.css'/>");
+  	$("document").ready(init);{();

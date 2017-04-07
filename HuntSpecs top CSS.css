@@ -559,7 +559,7 @@
   padding-top: 2px;
   padding-right: 3px;
   position: relative;
-  z-index: 3;
+  z-index: 4;
   cursor: pointer;
   *display: block;
   *padding-top: 22px;

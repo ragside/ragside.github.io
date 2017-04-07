@@ -90,8 +90,8 @@ a {
 }
 
 a:hover {
-  color: #122db3;
-  text-decoration: underline;
+  color: #ff0066;
+  text-decoration: none;
 }
 
 /* ---------- CLEARFIX ---------- */
